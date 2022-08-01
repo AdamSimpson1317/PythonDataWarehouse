@@ -1,0 +1,1001 @@
+Session_Key,recommended_age,recommended_class_size,recommended_amt_of_staff,theme,length
+1,13-15,50+,1,Deep dive,3
+2,15+,25-30,2,Digital divide,1
+3,15+,50+,2,Quantum supremacy,3
+4,13-15,20-25,2,Driven Development,3
+5,15+,15-20,2,Bleeding edge,4
+6,15+,45-50,2,User generated content,4
+7,5-7,Below 10,1,Digital signage,2
+8,11-13,15-20,2,Algorithm,4
+9,11-13,50+,3,Dot-bomb,4
+10,7-9,45-50,2,DevOps,1
+11,9-11,35-40,2,Immersion,1
+12,5-7,25-30,1,Cloud-computing,3
+13,7-9,35-40,2,Microservices,4
+14,Below 5,15-20,2,Mashup,2
+15,9-11,40-45,2,Technological Masturbation,3
+16,15+,35-40,1,Cloud-computing,1
+17,9-11,Below 10,3,4G,3
+18,13-15,45-50,3,Microservices,1
+19,11-13,50+,1,Folksonomy,4
+20,Below 5,40-45,2,Eco,2
+21,7-9,50+,2,Front-end,3
+22,13-15,10-15,3,Framework,3
+23,11-13,20-25,3,Information superhighway / Information highway,1
+24,Below 5,20-25,1,Skeuomorphic,4
+25,11-13,35-40,2,Virtualization,3
+26,Below 5,30-35,3,End-to-end,2
+27,13-15,50+,2,Digital divide,1
+28,5-7,45-50,2,Transmedia,4
+29,11-13,35-40,1,Bring your own Device,4
+30,13-15,Below 10,1,Convergence,1
+31,5-7,20-25,1,Content management,2
+32,15+,10-15,3,Scalability,3
+33,11-13,30-35,3,Enterprise Service Bus,2
+34,Below 5,30-35,3,Web 2.0,1
+35,15+,25-30,3,Big data,4
+36,11-13,20-25,2,Deep dive,3
+37,9-11,40-45,2,Machine Learning,1
+38,7-9,50+,1,Bio,2
+39,Below 5,25-30,2,Netiquette,4
+40,11-13,20-25,1,Design pattern,3
+41,15+,35-40,1,4G,2
+42,15+,20-25,1,CSS3,3
+43,9-11,30-35,3,Systems Development Life-Cycle,1
+44,15+,25-30,3,SDN- Software defined Networking,3
+45,7-9,25-30,2,Modularity,3
+46,13-15,40-45,3,UC - Unified Communications,1
+47,7-9,45-50,3,Cyber-physical Systems (CPS),4
+48,Below 5,50+,2,Bio,1
+49,9-11,10-15,3,Nanotechnology,1
+50,13-15,35-40,2,4G,2
+51,5-7,15-20,1,Modularity,2
+52,13-15,20-25,2,Framework,4
+53,9-11,25-30,3,CSS3,3
+54,Below 5,50+,1,Enterprise Service Bus,1
+55,Below 5,20-25,2,Ideation Management,4
+56,11-13,Below 10,3,Blockchain,2
+57,9-11,50+,1,PaaS,2
+58,7-9,10-15,2,Content Management System - also known as CMS.,4
+59,5-7,15-20,3,End-to-end,2
+60,13-15,50+,2,Datafication,1
+61,13-15,35-40,3,Data mining,1
+62,11-13,15-20,3,Fuzzy logic,4
+63,5-7,Below 10,2,Quantum supremacy,1
+64,5-7,20-25,2,Deep learning,3
+65,13-15,20-25,3,Virtualization,3
+66,7-9,35-40,3,Andon,2
+67,Below 5,10-15,1,User generated content,4
+68,9-11,30-35,3,Systems Development Life-Cycle,3
+69,5-7,10-15,3,Data mining,2
+70,11-13,20-25,1,Data science,4
+71,7-9,20-25,2,IaaS,4
+72,Below 5,20-25,2,Digital Remastering,1
+73,7-9,45-50,2,SPA,1
+74,Below 5,30-35,2,Deep learning,3
+75,13-15,30-35,1,Next Generation,2
+76,7-9,45-50,2,Social bookmarking,2
+77,11-13,45-50,1,SPA,3
+78,5-7,35-40,1,SaaS,4
+79,13-15,10-15,1,Back-end,4
+80,5-7,40-45,2,Algorithm,1
+81,5-7,40-45,2,5G,1
+82,7-9,20-25,3,Digital Rights Management,4
+83,11-13,40-45,2,Data science,1
+84,9-11,45-50,2,4G,1
+85,11-13,20-25,2,Digital signage,4
+86,11-13,10-15,2,Agile,3
+87,13-15,15-20,3,Growth Hacking,1
+88,Below 5,40-45,1,SaaS,2
+89,Below 5,25-30,3,Mobile,3
+90,9-11,Below 10,3,Web services,3
+91,5-7,45-50,1,Ideation Management,1
+92,7-9,35-40,3,Ephemeral Rogue Entity,3
+93,7-9,20-25,1,Information superhighway / Information highway,2
+94,5-7,45-50,2,Growth Hacking,4
+95,5-7,35-40,1,SaaS,4
+96,Below 5,25-30,1,Enterprise Service Bus,2
+97,Below 5,40-45,1,Wikiality,1
+98,5-7,10-15,2,Netiquette,4
+99,5-7,Below 10,1,Microservices,1
+100,13-15,35-40,3,Enterprise Content Management,2
+101,Below 5,Below 10,2,Workflow,3
+102,13-15,45-50,3,Skeuomorphic,1
+103,11-13,25-30,2,Modularity,4
+104,15+,30-35,2,Webinar,1
+105,11-13,Below 10,2,Benchmarking,2
+106,13-15,50+,1,PaaS,4
+107,11-13,30-35,3,Cross-platform,4
+108,13-15,30-35,1,Enterprise Service Bus,1
+109,7-9,30-35,2,IaaS,2
+110,5-7,45-50,1,Blockchain,2
+111,15+,35-40,1,Internet of Things,4
+112,9-11,40-45,2,Machine Learning,3
+113,15+,20-25,3,Ephemeral Rogue Entity,4
+114,15+,10-15,2,Disruptive Technologies,4
+115,9-11,30-35,3,Virtualization,2
+116,5-7,40-45,1,Big data,3
+117,Below 5,10-15,2,End-to-end,4
+118,15+,Below 10,3,Tagging,2
+119,11-13,35-40,3,Engine,3
+120,7-9,25-30,3,Systems Development Life-Cycle,2
+121,15+,25-30,2,Webinar,1
+122,5-7,25-30,2,Technological Masturbation,4
+123,15+,40-45,1,Framework,3
+124,11-13,10-15,2,Andon,1
+125,9-11,10-15,2,Folksonomy,4
+126,9-11,20-25,3,Mashup,2
+127,7-9,10-15,3,Data mining,2
+128,11-13,50+,2,Fuzzy logic,3
+129,11-13,20-25,2,Modularity,2
+130,15+,50+,3,Blockchain,2
+131,7-9,25-30,3,JavaScript,3
+132,5-7,Below 10,3,Machine Learning,3
+133,7-9,10-15,2,Blockchain,4
+134,11-13,Below 10,2,Folksonomy,1
+135,5-7,20-25,1,Internet of Things,3
+136,7-9,40-45,3,Mashup,3
+137,15+,40-45,2,Mobile,4
+138,5-7,40-45,1,4G,4
+139,13-15,20-25,1,DevOps,2
+140,9-11,45-50,2,Web 2.0,3
+141,9-11,30-35,2,Agile,2
+142,13-15,Below 10,3,Deep learning,3
+143,13-15,45-50,3,Social bookmarking,3
+144,7-9,25-30,2,Data science,2
+145,9-11,40-45,2,Wikiality,4
+146,Below 5,Below 10,3,Nanotechnology,2
+147,Below 5,50+,2,Wikiality,2
+148,7-9,25-30,2,Data mining,3
+149,9-11,20-25,2,E-learning,4
+150,13-15,40-45,1,Dot-bomb,3
+151,Below 5,40-45,2,Digital signage,4
+152,15+,45-50,3,Quantum supremacy,3
+153,15+,30-35,1,Ephemeral Rogue Entity,3
+154,Below 5,50+,2,Front-end,4
+155,13-15,20-25,3,IaaS,3
+156,9-11,35-40,2,Viral,2
+157,Below 5,40-45,3,Technological Masturbation,4
+158,7-9,15-20,2,Content Management System - also known as CMS.,4
+159,9-11,Below 10,1,Enterprise Service Bus,3
+160,11-13,40-45,3,Digital divide,4
+161,9-11,50+,1,Technological Masturbation,4
+162,7-9,40-45,3,Ajax,4
+163,15+,25-30,2,HTML5,3
+164,Below 5,45-50,3,Strategic Ineptness,1
+165,15+,15-20,2,Back-end,4
+166,11-13,25-30,3,Cloud-computing,1
+167,11-13,40-45,2,Bricks-and-clicks,1
+168,7-9,20-25,3,Blockchain,1
+169,13-15,35-40,2,DevOps,1
+170,5-7,25-30,2,Back-end,3
+171,15+,35-40,3,Immersion,1
+172,13-15,20-25,2,JavaScript,1
+173,Below 5,30-35,3,Framework,2
+174,7-9,45-50,1,Datafication,1
+175,9-11,15-20,2,Real-time,3
+176,13-15,40-45,1,Real-time,1
+177,5-7,35-40,3,Benchmarking,4
+178,11-13,25-30,2,Cloud-computing,1
+179,5-7,35-40,1,Sync-up,2
+180,Below 5,10-15,3,Andon,4
+181,7-9,20-25,3,Folksonomy,2
+182,15+,30-35,2,Growth Hacking,2
+183,15+,50+,2,HTML5,1
+184,15+,Below 10,3,5G,3
+185,Below 5,35-40,2,Mashup,1
+186,9-11,20-25,3,Mobile,2
+187,Below 5,15-20,1,Sync-up,2
+188,5-7,10-15,2,Enterprise Service Bus,4
+189,13-15,45-50,3,Convergence,1
+190,11-13,50+,1,Back-end,1
+191,13-15,Below 10,3,Machine Learning,1
+192,7-9,40-45,2,Data science,2
+193,15+,45-50,1,Benchmarking,4
+194,13-15,40-45,2,Digital Rights Management,1
+195,15+,Below 10,3,Digital divide,4
+196,13-15,Below 10,2,Vortal,4
+197,7-9,40-45,2,Design pattern,2
+198,5-7,50+,3,Benchmarking,3
+199,13-15,45-50,1,Frictionless (software development),2
+200,5-7,45-50,3,Netiquette,4
+201,11-13,20-25,3,Netiquette,4
+202,13-15,25-30,2,Enterprise Service Bus,2
+203,15+,Below 10,2,Eco,4
+204,11-13,25-30,3,Cloud-computing,3
+205,9-11,10-15,1,Viral,3
+206,13-15,35-40,2,Ideation Management,3
+207,5-7,30-35,3,Mobile,4
+208,7-9,30-35,1,E-learning,3
+209,7-9,40-45,3,Responsive Web Design,2
+210,9-11,20-25,2,Deep web,1
+211,15+,25-30,1,Bricks-and-clicks,1
+212,7-9,50+,1,IaaS,2
+213,Below 5,10-15,1,Spam,2
+214,11-13,40-45,3,Andon,3
+215,9-11,20-25,1,Scalability,1
+216,11-13,35-40,2,Frictionless (software development),1
+217,5-7,35-40,1,Information superhighway / Information highway,3
+218,5-7,30-35,2,Bio,3
+219,13-15,20-25,1,Netiquette,1
+220,13-15,30-35,3,Folksonomy,4
+221,11-13,15-20,1,Benchmarking,3
+222,7-9,15-20,3,Convergence,2
+223,Below 5,45-50,1,Open source,2
+224,13-15,50+,1,Framework,4
+225,5-7,25-30,2,Framework,4
+226,5-7,50+,3,User generated content,3
+227,9-11,25-30,1,5G,2
+228,13-15,20-25,3,Podcasting,3
+229,9-11,20-25,2,Responsive Web Design,2
+230,15+,40-45,3,Next Generation,4
+231,7-9,30-35,2,Cyber-physical Systems (CPS),4
+232,13-15,40-45,2,Immersion,3
+233,7-9,20-25,2,Web services,3
+234,9-11,15-20,2,Digital Rights Management,4
+235,9-11,25-30,3,Data science,2
+236,13-15,25-30,2,Data mining,1
+237,Below 5,10-15,3,Datafication,2
+238,5-7,30-35,1,Wikiality,1
+239,13-15,50+,1,UC - Unified Communications,3
+240,Below 5,20-25,3,Modularity,1
+241,5-7,50+,3,DevOps,2
+242,15+,20-25,3,Digital Rights Management,4
+243,11-13,30-35,1,Content management,1
+244,7-9,15-20,3,Algorithm,1
+245,13-15,25-30,2,Deep dive,1
+246,5-7,15-20,1,Driven Development,2
+247,7-9,50+,3,Netiquette,4
+248,9-11,25-30,3,Digital Rights Management,1
+249,5-7,35-40,1,HTML5,1
+250,9-11,40-45,1,Eco,3
+251,15+,10-15,2,Enterprise Service Bus,3
+252,Below 5,20-25,1,Cloud-computing,2
+253,Below 5,10-15,3,Spam,2
+254,15+,30-35,2,Fuzzy logic,2
+255,5-7,15-20,3,JavaScript,2
+256,13-15,Below 10,1,End-to-end,3
+257,Below 5,Below 10,1,Lambda,1
+258,9-11,Below 10,2,Content management,2
+259,5-7,15-20,3,Deep dive,3
+260,Below 5,50+,1,Responsive Web Design,1
+261,7-9,35-40,1,Wikiality,1
+262,Below 5,50+,3,Technological Masturbation,1
+263,15+,15-20,3,User generated content,1
+264,5-7,35-40,3,Social bookmarking,1
+265,Below 5,25-30,2,Growth Hacking,4
+266,5-7,45-50,2,Digital divide,4
+267,9-11,20-25,2,Data science,1
+268,5-7,30-35,3,Strategic Ineptness,1
+269,7-9,25-30,3,E-learning,1
+270,5-7,40-45,2,CSS3,1
+271,15+,45-50,2,Skeuomorphic,2
+272,7-9,40-45,1,Driven Development,4
+273,7-9,20-25,2,Clickthrough,4
+274,11-13,20-25,1,Bring your own Device,2
+275,9-11,35-40,1,Clickthrough,4
+276,Below 5,50+,3,Data science,2
+277,9-11,10-15,1,Andon,3
+278,13-15,40-45,3,E-learning,1
+279,13-15,Below 10,1,Strategic Ineptness,1
+280,7-9,35-40,3,SDN- Software defined Networking,4
+281,9-11,45-50,3,Virtualization,2
+282,7-9,10-15,2,Engine,3
+283,5-7,30-35,3,Data science,1
+284,13-15,30-35,2,Clickthrough,4
+285,Below 5,20-25,2,UC - Unified Communications,1
+286,13-15,30-35,3,Data science,2
+287,15+,10-15,2,Clickthrough,2
+288,7-9,15-20,3,Next Generation,4
+289,9-11,20-25,2,Web 2.0,4
+290,5-7,35-40,3,Machine Learning,2
+291,11-13,30-35,1,Internet of Things,2
+292,9-11,50+,2,Mobile,3
+293,7-9,40-45,3,Digital Remastering,3
+294,13-15,10-15,3,Machine Learning,3
+295,7-9,20-25,3,JavaScript,2
+296,15+,15-20,2,Andon,2
+297,5-7,15-20,2,Bio,2
+298,11-13,30-35,1,Framework,4
+299,15+,35-40,3,HTML5,2
+300,13-15,10-15,3,Bleeding edge,3
+301,13-15,30-35,3,Next Generation,2
+302,7-9,25-30,2,Social software,1
+303,5-7,15-20,3,Digital divide,2
+304,15+,25-30,2,Netiquette,1
+305,Below 5,35-40,3,DevOps,1
+306,11-13,20-25,3,User generated content,4
+307,15+,40-45,2,Mashup,1
+308,7-9,Below 10,2,Agile,2
+309,15+,Below 10,3,Bricks-and-clicks,3
+310,9-11,Below 10,1,Dot-bomb,3
+311,15+,15-20,3,Real-time,4
+312,9-11,20-25,1,Scalability,2
+313,13-15,30-35,2,Transmedia,4
+314,Below 5,45-50,2,Digital Rights Management,1
+315,15+,25-30,2,User generated content,2
+316,5-7,35-40,2,Framework,1
+317,13-15,45-50,1,Technological Masturbation,4
+318,15+,10-15,2,Machine Learning,2
+319,9-11,35-40,1,4G,4
+320,13-15,40-45,1,Data science,1
+321,9-11,25-30,1,Document management,3
+322,Below 5,35-40,3,Clickthrough,4
+323,11-13,15-20,3,Strategic Ineptness,2
+324,7-9,15-20,2,Microservices,2
+325,15+,40-45,2,Vortal,2
+326,Below 5,15-20,2,Deep dive,2
+327,Below 5,10-15,1,Digital Remastering,4
+328,9-11,50+,3,Strategic Ineptness,4
+329,15+,20-25,1,Folksonomy,1
+330,7-9,40-45,3,Bricks-and-clicks,4
+331,13-15,10-15,2,Open source,3
+332,11-13,10-15,1,Ephemeral Rogue Entity,1
+333,13-15,35-40,1,Strategic Ineptness,3
+334,15+,35-40,1,Microservices,3
+335,15+,20-25,1,Convergence,4
+336,7-9,10-15,3,Content management,1
+337,Below 5,10-15,3,CSS3,2
+338,9-11,50+,2,Skeuomorphic,2
+339,13-15,10-15,3,PaaS,4
+340,15+,10-15,2,Immersion,3
+341,7-9,25-30,1,Content Management System - also known as CMS.,3
+342,11-13,30-35,2,Skeuomorphic,2
+343,5-7,20-25,3,Cyber-physical Systems (CPS),3
+344,11-13,40-45,2,Back-end,1
+345,9-11,20-25,1,Algorithm,2
+346,11-13,15-20,1,Web services,1
+347,7-9,40-45,2,Open source,2
+348,Below 5,25-30,1,Deep learning,4
+349,11-13,50+,2,Scalability,4
+350,13-15,Below 10,2,Spam,3
+351,13-15,20-25,1,Modularity,2
+352,11-13,40-45,3,Quantum supremacy,4
+353,15+,15-20,2,Ajax,3
+354,9-11,45-50,3,4G,1
+355,9-11,45-50,2,Bring your own Device,2
+356,5-7,10-15,2,Clickthrough,3
+357,Below 5,20-25,1,Bring your own Device,1
+358,Below 5,15-20,1,Back-end,1
+359,5-7,25-30,2,Fuzzy logic,3
+360,9-11,30-35,1,Document management,4
+361,7-9,25-30,2,Machine Learning,4
+362,Below 5,50+,1,Ideation Management,3
+363,5-7,50+,3,Collaboration,2
+364,9-11,35-40,1,5G,4
+365,13-15,30-35,2,SaaS,4
+366,7-9,50+,3,Blockchain,1
+367,15+,10-15,2,Ephemeral Rogue Entity,2
+368,13-15,30-35,2,Blockchain,1
+369,7-9,25-30,3,Big data,3
+370,7-9,20-25,2,Eco,1
+371,7-9,35-40,1,SPA,2
+372,13-15,40-45,2,Nanotechnology,2
+373,11-13,35-40,1,Bricks-and-clicks,2
+374,11-13,25-30,3,Mashup,1
+375,Below 5,35-40,1,SPA,4
+376,Below 5,40-45,3,Machine Learning,3
+377,11-13,40-45,1,Deep web,3
+378,13-15,10-15,3,Bio,1
+379,9-11,25-30,1,Benchmarking,2
+380,5-7,50+,2,Sensorization,2
+381,9-11,30-35,1,Scalability,4
+382,Below 5,25-30,1,Convergence,1
+383,9-11,30-35,2,Enterprise Service Bus,1
+384,15+,30-35,2,Convergence,4
+385,9-11,40-45,1,Workflow,4
+386,13-15,50+,1,Web 2.0,2
+387,9-11,35-40,1,Responsive Web Design,3
+388,13-15,15-20,3,Frictionless (software development),4
+389,5-7,45-50,1,Bricks-and-clicks,1
+390,9-11,25-30,2,Blockchain,3
+391,Below 5,Below 10,1,UC - Unified Communications,2
+392,15+,30-35,3,Mobile,1
+393,15+,50+,1,Sync-up,3
+394,Below 5,30-35,3,Data mining,1
+395,13-15,20-25,3,UC - Unified Communications,4
+396,Below 5,45-50,3,Document management,1
+397,13-15,20-25,2,Driven Development,4
+398,7-9,10-15,1,Deep web,1
+399,9-11,10-15,1,Social bookmarking,2
+400,13-15,45-50,2,Datafication,4
+401,Below 5,50+,1,Ideation Management,2
+402,5-7,15-20,2,Clickthrough,4
+403,11-13,50+,2,Framework,4
+404,15+,15-20,1,Enterprise Content Management,1
+405,9-11,20-25,2,Viral,2
+406,15+,25-30,3,Wikiality,1
+407,7-9,20-25,3,UC - Unified Communications,1
+408,13-15,20-25,1,Modularity,2
+409,13-15,15-20,1,Bricks-and-clicks,4
+410,7-9,50+,2,Agile,1
+411,Below 5,45-50,2,Data mining,2
+412,11-13,40-45,3,Cloud-computing,2
+413,5-7,50+,2,Bleeding edge,3
+414,11-13,45-50,2,Systems Development Life-Cycle,1
+415,Below 5,Below 10,1,Machine Learning,4
+416,9-11,10-15,1,Cloud-computing,3
+417,15+,10-15,2,Lambda,2
+418,Below 5,Below 10,3,User generated content,2
+419,Below 5,40-45,3,Digital divide,2
+420,15+,35-40,3,User generated content,3
+421,Below 5,40-45,1,Lambda,4
+422,15+,40-45,1,Workflow,1
+423,15+,25-30,2,SPA,1
+424,9-11,10-15,1,Deep learning,1
+425,9-11,20-25,3,Vortal,3
+426,5-7,50+,1,Blockchain,2
+427,13-15,20-25,3,Cyber-physical Systems (CPS),2
+428,9-11,10-15,2,Mashup,2
+429,7-9,40-45,1,Dot-bomb,3
+430,7-9,45-50,2,Ephemeral Rogue Entity,1
+431,9-11,Below 10,1,Ephemeral Rogue Entity,1
+432,11-13,30-35,3,DevOps,3
+433,13-15,50+,3,Cyber-physical Systems (CPS),1
+434,5-7,50+,3,Responsive Web Design,1
+435,9-11,15-20,2,Spam,4
+436,7-9,25-30,1,Digital Rights Management,3
+437,15+,Below 10,1,SDN- Software defined Networking,3
+438,5-7,45-50,1,Wikiality,3
+439,Below 5,45-50,2,Content management,3
+440,9-11,40-45,2,Social software,4
+441,Below 5,45-50,3,SPA,1
+442,11-13,35-40,3,Social software,2
+443,13-15,15-20,3,Transmedia,4
+444,7-9,20-25,1,Tagging,3
+445,13-15,25-30,3,Web services,4
+446,9-11,50+,3,SDN- Software defined Networking,1
+447,9-11,50+,1,Digital Rights Management,3
+448,13-15,Below 10,3,Viral,3
+449,9-11,25-30,3,Vortal,2
+450,Below 5,15-20,3,Podcasting,2
+451,9-11,45-50,3,Bring your own Device,3
+452,Below 5,30-35,3,Lambda,3
+453,7-9,10-15,3,IaaS,1
+454,5-7,20-25,1,Web 2.0,3
+455,13-15,15-20,2,Viral,1
+456,7-9,45-50,1,Bricks-and-clicks,2
+457,5-7,25-30,1,Real-time,3
+458,15+,20-25,1,SPA,3
+459,9-11,10-15,3,Engine,2
+460,9-11,45-50,2,JavaScript,4
+461,7-9,30-35,1,Deep dive,1
+462,11-13,50+,2,Machine Learning,2
+463,13-15,15-20,2,Web services,3
+464,15+,30-35,1,Ephemeral Rogue Entity,3
+465,13-15,15-20,2,Collaboration,3
+466,7-9,45-50,2,Systems Development Life-Cycle,1
+467,7-9,Below 10,3,Netiquette,3
+468,Below 5,25-30,1,CSS3,2
+469,9-11,15-20,3,Growth Hacking,3
+470,Below 5,30-35,2,Podcasting,2
+471,Below 5,40-45,3,Ephemeral Rogue Entity,3
+472,15+,Below 10,3,DevOps,1
+473,15+,35-40,1,5G,1
+474,Below 5,30-35,1,Spam,1
+475,5-7,50+,3,Back-end,3
+476,9-11,Below 10,1,Bleeding edge,2
+477,7-9,30-35,3,Andon,2
+478,Below 5,25-30,2,Convergence,4
+479,7-9,50+,1,Collaboration,4
+480,Below 5,35-40,2,Sync-up,1
+481,Below 5,40-45,2,Fuzzy logic,1
+482,5-7,25-30,3,Viral,4
+483,11-13,15-20,3,Enterprise Service Bus,4
+484,15+,45-50,3,Collaboration,4
+485,9-11,10-15,1,SaaS,2
+486,9-11,10-15,3,Algorithm,2
+487,5-7,30-35,3,Netiquette,1
+488,9-11,45-50,3,DevOps,3
+489,13-15,35-40,3,Back-end,1
+490,15+,35-40,2,JavaScript,3
+491,Below 5,30-35,1,Document management,4
+492,Below 5,45-50,3,Mashup,1
+493,15+,25-30,3,Front-end,1
+494,7-9,35-40,1,DevOps,4
+495,13-15,35-40,3,Dot-bomb,4
+496,9-11,Below 10,3,Cyber-physical Systems (CPS),2
+497,7-9,Below 10,1,Ephemeral Rogue Entity,1
+498,15+,25-30,1,Back-end,1
+499,Below 5,Below 10,2,Machine Learning,4
+500,9-11,20-25,1,Front-end,4
+501,11-13,40-45,2,Growth Hacking,3
+502,7-9,20-25,3,Cross-platform,4
+503,15+,40-45,3,Front-end,3
+504,13-15,25-30,2,Content management,3
+505,9-11,40-45,2,Digital Remastering,2
+506,5-7,45-50,3,Driven Development,4
+507,11-13,30-35,2,Enterprise Service Bus,4
+508,9-11,Below 10,3,Big data,1
+509,9-11,15-20,3,Nanotechnology,2
+510,7-9,10-15,1,Data mining,2
+511,5-7,35-40,3,HTML5,4
+512,Below 5,15-20,3,Spam,1
+513,7-9,20-25,1,Podcasting,1
+514,5-7,50+,1,Web services,1
+515,5-7,45-50,2,Content management,4
+516,5-7,50+,3,Deep dive,3
+517,Below 5,35-40,2,Viral,1
+518,9-11,35-40,3,Bio,4
+519,5-7,35-40,3,Growth Hacking,4
+520,13-15,10-15,2,Deep web,2
+521,9-11,15-20,2,Tagging,3
+522,15+,50+,2,Strategic Ineptness,3
+523,5-7,Below 10,3,Andon,3
+524,11-13,35-40,1,SDN- Software defined Networking,1
+525,5-7,20-25,2,IaaS,2
+526,15+,20-25,3,Ajax,4
+527,5-7,Below 10,2,SaaS,3
+528,9-11,30-35,1,Virtualization,3
+529,15+,50+,3,Wikiality,1
+530,9-11,40-45,1,Datafication,2
+531,11-13,45-50,1,SDN- Software defined Networking,2
+532,11-13,50+,2,Skeuomorphic,1
+533,15+,10-15,1,Convergence,3
+534,11-13,25-30,3,Cloud-computing,2
+535,Below 5,50+,1,User generated content,2
+536,5-7,50+,1,Sensorization,1
+537,11-13,40-45,1,IaaS,1
+538,5-7,30-35,3,Systems Development Life-Cycle,1
+539,9-11,25-30,2,Modularity,1
+540,11-13,10-15,1,Algorithm,4
+541,15+,15-20,3,Nanotechnology,2
+542,5-7,35-40,2,SDN- Software defined Networking,4
+543,7-9,40-45,2,Data science,2
+544,13-15,25-30,2,Fuzzy logic,3
+545,11-13,25-30,2,Virtualization,1
+546,7-9,35-40,2,Engine,4
+547,13-15,10-15,1,End-to-end,1
+548,9-11,20-25,3,Bring your own Device,1
+549,5-7,25-30,3,Collaboration,4
+550,9-11,20-25,1,Ajax,3
+551,15+,30-35,1,Social bookmarking,3
+552,7-9,50+,2,Digital Remastering,3
+553,13-15,15-20,3,Data science,4
+554,9-11,Below 10,3,Bleeding edge,3
+555,7-9,35-40,2,Back-end,2
+556,9-11,30-35,1,Information superhighway / Information highway,2
+557,13-15,20-25,1,Viral,2
+558,7-9,40-45,2,Eco,4
+559,9-11,15-20,1,Clickthrough,1
+560,11-13,30-35,1,Mashup,3
+561,11-13,40-45,2,End-to-end,2
+562,13-15,35-40,2,Immersion,1
+563,11-13,25-30,3,5G,3
+564,11-13,40-45,1,Convergence,4
+565,13-15,15-20,1,Systems Development Life-Cycle,3
+566,Below 5,Below 10,2,Digital divide,1
+567,5-7,10-15,2,Collaboration,4
+568,Below 5,20-25,2,Strategic Ineptness,1
+569,11-13,10-15,2,Real-time,2
+570,13-15,45-50,3,User generated content,4
+571,5-7,10-15,3,Scalability,3
+572,7-9,45-50,2,Spam,2
+573,9-11,40-45,1,Web 2.0,3
+574,13-15,20-25,1,Big data,2
+575,9-11,Below 10,2,Folksonomy,2
+576,15+,40-45,2,Tagging,1
+577,7-9,35-40,2,Scalability,2
+578,Below 5,Below 10,3,Data mining,4
+579,15+,10-15,2,End-to-end,3
+580,11-13,40-45,2,Scalability,1
+581,7-9,15-20,1,Content Management System - also known as CMS.,4
+582,5-7,25-30,1,Modularity,2
+583,15+,20-25,1,Open source,4
+584,Below 5,25-30,2,Cloud-computing,2
+585,15+,30-35,3,Microservices,2
+586,7-9,10-15,2,Social bookmarking,1
+587,13-15,10-15,1,Podcasting,4
+588,7-9,40-45,1,Digital divide,3
+589,Below 5,15-20,3,SaaS,3
+590,Below 5,45-50,2,SaaS,3
+591,11-13,Below 10,2,Content management,4
+592,13-15,45-50,1,Algorithm,4
+593,9-11,10-15,1,Real-time,3
+594,13-15,10-15,3,Cross-platform,2
+595,15+,50+,2,CSS3,4
+596,Below 5,10-15,3,Deep learning,1
+597,13-15,Below 10,1,Skeuomorphic,1
+598,Below 5,25-30,1,Deep learning,4
+599,13-15,50+,1,Mashup,3
+600,Below 5,35-40,3,Framework,3
+601,5-7,15-20,3,Workflow,4
+602,Below 5,30-35,3,Disruptive Technologies,1
+603,9-11,50+,1,Content Management System - also known as CMS.,1
+604,Below 5,50+,3,Deep learning,1
+605,11-13,Below 10,3,Skeuomorphic,3
+606,15+,35-40,3,DevOps,1
+607,9-11,Below 10,1,Benchmarking,4
+608,9-11,Below 10,3,Digital Rights Management,4
+609,5-7,25-30,2,PaaS,2
+610,9-11,20-25,3,PaaS,2
+611,Below 5,25-30,3,Scalability,3
+612,15+,40-45,2,Social bookmarking,2
+613,7-9,45-50,1,Machine Learning,2
+614,Below 5,25-30,1,CSS3,4
+615,15+,Below 10,3,Design pattern,4
+616,15+,15-20,3,Bleeding edge,1
+617,9-11,20-25,2,SDN- Software defined Networking,2
+618,11-13,Below 10,3,Spam,4
+619,11-13,40-45,1,Web 2.0,1
+620,13-15,25-30,1,PaaS,3
+621,7-9,45-50,2,Enterprise Service Bus,2
+622,11-13,25-30,1,Responsive Web Design,3
+623,15+,35-40,3,Algorithm,1
+624,9-11,20-25,1,Lambda,4
+625,15+,25-30,3,Wikiality,4
+626,15+,45-50,1,Collaboration,4
+627,11-13,20-25,1,Bring your own Device,4
+628,11-13,45-50,3,Web services,1
+629,Below 5,15-20,3,JavaScript,4
+630,7-9,25-30,2,5G,4
+631,15+,25-30,3,HTML5,1
+632,7-9,10-15,2,User generated content,1
+633,7-9,35-40,3,Spam,4
+634,Below 5,40-45,2,Information superhighway / Information highway,4
+635,11-13,30-35,2,Fuzzy logic,3
+636,Below 5,Below 10,2,Machine Learning,3
+637,7-9,20-25,2,UC - Unified Communications,4
+638,11-13,30-35,3,Data science,4
+639,7-9,45-50,3,PaaS,2
+640,11-13,20-25,1,Data science,3
+641,15+,40-45,2,Sync-up,4
+642,Below 5,Below 10,3,End-to-end,4
+643,5-7,25-30,1,Design pattern,4
+644,5-7,45-50,1,Responsive Web Design,2
+645,15+,50+,2,Mobile,3
+646,Below 5,15-20,2,Machine Learning,4
+647,11-13,10-15,1,Ideation Management,3
+648,9-11,40-45,1,Strategic Ineptness,3
+649,9-11,40-45,3,IaaS,1
+650,11-13,10-15,1,SDN- Software defined Networking,3
+651,5-7,20-25,2,Algorithm,3
+652,9-11,30-35,3,Framework,3
+653,9-11,25-30,3,Digital divide,1
+654,13-15,Below 10,3,Deep dive,2
+655,Below 5,20-25,3,Ideation Management,4
+656,7-9,10-15,3,Bio,3
+657,5-7,40-45,1,Deep dive,4
+658,5-7,Below 10,1,HTML5,2
+659,15+,30-35,2,Data mining,3
+660,11-13,35-40,3,Bio,4
+661,Below 5,30-35,1,Virtualization,2
+662,7-9,15-20,3,Open source,2
+663,Below 5,20-25,2,4G,3
+664,13-15,15-20,1,Workflow,4
+665,15+,40-45,2,Machine Learning,2
+666,Below 5,25-30,1,Lambda,1
+667,7-9,25-30,2,Netiquette,2
+668,11-13,35-40,3,Back-end,2
+669,15+,40-45,3,Webinar,3
+670,5-7,30-35,3,Collaboration,1
+671,11-13,40-45,2,Eco,2
+672,9-11,35-40,3,Data mining,4
+673,7-9,10-15,3,Digital divide,1
+674,13-15,40-45,1,4G,4
+675,7-9,40-45,3,Systems Development Life-Cycle,4
+676,15+,10-15,1,Bring your own Device,4
+677,13-15,35-40,1,Blockchain,2
+678,15+,45-50,3,Next Generation,1
+679,13-15,Below 10,2,Digital Rights Management,3
+680,5-7,35-40,3,Responsive Web Design,1
+681,11-13,15-20,2,Frictionless (software development),1
+682,11-13,25-30,1,Web 2.0,4
+683,13-15,10-15,2,Vortal,4
+684,15+,Below 10,1,Deep web,4
+685,7-9,20-25,3,Convergence,1
+686,Below 5,50+,1,Technological Masturbation,4
+687,5-7,25-30,2,Enterprise Content Management,1
+688,Below 5,20-25,2,Document management,2
+689,9-11,25-30,1,Engine,4
+690,Below 5,45-50,3,Wikiality,1
+691,5-7,25-30,1,Bleeding edge,4
+692,7-9,Below 10,2,Digital divide,3
+693,13-15,25-30,2,Viral,1
+694,7-9,35-40,3,Frictionless (software development),4
+695,11-13,45-50,1,Ajax,1
+696,7-9,35-40,2,DevOps,4
+697,9-11,10-15,2,Ajax,1
+698,9-11,45-50,1,Frictionless (software development),4
+699,13-15,20-25,2,IaaS,1
+700,13-15,35-40,3,Clickthrough,2
+701,15+,50+,1,Scalability,4
+702,13-15,45-50,1,Machine Learning,2
+703,5-7,20-25,1,Ephemeral Rogue Entity,4
+704,13-15,15-20,1,Transmedia,4
+705,15+,50+,1,Viral,1
+706,9-11,10-15,2,Blockchain,2
+707,13-15,25-30,1,Design pattern,4
+708,5-7,45-50,2,Deep web,1
+709,13-15,15-20,1,Document management,1
+710,7-9,Below 10,2,Data science,3
+711,Below 5,45-50,1,Engine,3
+712,9-11,35-40,2,Cloud-computing,2
+713,9-11,20-25,1,Cloud-computing,1
+714,7-9,25-30,1,Webinar,1
+715,Below 5,10-15,1,Responsive Web Design,4
+716,15+,30-35,2,Lambda,4
+717,11-13,10-15,2,Datafication,4
+718,5-7,50+,2,Information superhighway / Information highway,3
+719,15+,40-45,2,User generated content,3
+720,9-11,40-45,1,Web 2.0,1
+721,5-7,40-45,2,Open source,4
+722,13-15,Below 10,1,Workflow,4
+723,11-13,Below 10,1,Web 2.0,2
+724,11-13,50+,1,Quantum supremacy,4
+725,15+,30-35,2,Benchmarking,1
+726,Below 5,50+,1,Social software,4
+727,7-9,40-45,2,UC - Unified Communications,2
+728,15+,20-25,3,Framework,2
+729,13-15,15-20,2,Data mining,1
+730,7-9,20-25,3,Andon,1
+731,5-7,30-35,1,Document management,2
+732,Below 5,35-40,3,Vortal,1
+733,5-7,30-35,2,Data science,3
+734,13-15,10-15,3,Social software,3
+735,13-15,50+,2,Cyber-physical Systems (CPS),4
+736,11-13,25-30,2,Benchmarking,1
+737,15+,30-35,2,Blockchain,1
+738,7-9,20-25,2,Deep learning,3
+739,5-7,50+,3,End-to-end,2
+740,Below 5,20-25,1,Netiquette,1
+741,Below 5,15-20,3,Tagging,4
+742,Below 5,20-25,1,Internet of Things,3
+743,5-7,40-45,1,Digital Remastering,1
+744,Below 5,30-35,2,Convergence,3
+745,9-11,45-50,1,Real-time,4
+746,13-15,25-30,3,Dot-bomb,4
+747,9-11,25-30,2,Vortal,1
+748,15+,20-25,3,Digital Remastering,3
+749,15+,20-25,2,Design pattern,2
+750,5-7,40-45,3,Digital Remastering,2
+751,Below 5,30-35,2,Content Management System - also known as CMS.,3
+752,7-9,40-45,1,User generated content,2
+753,5-7,50+,3,Tagging,2
+754,13-15,25-30,3,E-learning,4
+755,Below 5,Below 10,2,Sensorization,1
+756,Below 5,45-50,3,Folksonomy,1
+757,11-13,15-20,1,Spam,3
+758,Below 5,10-15,1,Content management,4
+759,7-9,15-20,1,Bleeding edge,3
+760,11-13,Below 10,2,Growth Hacking,4
+761,9-11,35-40,2,Blockchain,3
+762,9-11,35-40,3,Real-time,1
+763,15+,45-50,1,Big data,2
+764,13-15,20-25,1,Ajax,3
+765,15+,15-20,3,Fuzzy logic,1
+766,13-15,10-15,1,Cyber-physical Systems (CPS),2
+767,9-11,40-45,2,Digital signage,1
+768,15+,15-20,1,Enterprise Content Management,4
+769,Below 5,45-50,2,Eco,1
+770,15+,35-40,3,Ephemeral Rogue Entity,4
+771,15+,45-50,1,Bring your own Device,1
+772,Below 5,40-45,1,Benchmarking,3
+773,11-13,45-50,3,Internet of Things,2
+774,11-13,40-45,3,Digital signage,4
+775,11-13,35-40,3,Convergence,2
+776,7-9,20-25,2,4G,3
+777,9-11,30-35,3,Workflow,4
+778,13-15,15-20,3,Algorithm,2
+779,Below 5,20-25,3,Convergence,3
+780,13-15,20-25,2,Web services,3
+781,9-11,40-45,1,Clickthrough,1
+782,11-13,20-25,3,Dot-bomb,1
+783,Below 5,10-15,3,Ephemeral Rogue Entity,1
+784,Below 5,35-40,3,Disruptive Technologies,3
+785,7-9,10-15,2,CSS3,3
+786,11-13,40-45,3,Mobile,3
+787,9-11,40-45,2,Benchmarking,2
+788,15+,45-50,3,Transmedia,3
+789,15+,45-50,1,Folksonomy,2
+790,11-13,50+,2,Viral,4
+791,15+,40-45,1,Design pattern,4
+792,9-11,20-25,1,Nanotechnology,2
+793,9-11,10-15,1,Social software,4
+794,Below 5,Below 10,3,SDN- Software defined Networking,4
+795,11-13,10-15,3,Fuzzy logic,3
+796,15+,25-30,2,Web services,2
+797,15+,15-20,1,Social bookmarking,1
+798,Below 5,15-20,2,Engine,1
+799,Below 5,40-45,3,Web services,1
+800,7-9,30-35,1,Mobile,3
+801,13-15,15-20,3,Sensorization,1
+802,Below 5,35-40,2,Folksonomy,2
+803,9-11,45-50,1,Modularity,4
+804,9-11,40-45,3,Tagging,4
+805,Below 5,25-30,3,Machine Learning,1
+806,11-13,20-25,2,Design pattern,2
+807,9-11,Below 10,2,Cloud-computing,4
+808,11-13,35-40,1,Webinar,3
+809,13-15,15-20,3,Enterprise Content Management,3
+810,9-11,20-25,2,Enterprise Service Bus,2
+811,9-11,40-45,3,Bring your own Device,3
+812,9-11,50+,1,5G,3
+813,9-11,10-15,3,Web 2.0,2
+814,5-7,50+,1,Convergence,1
+815,9-11,10-15,2,Next Generation,3
+816,Below 5,40-45,1,SDN- Software defined Networking,2
+817,13-15,15-20,3,SaaS,4
+818,13-15,20-25,3,Eco,3
+819,15+,20-25,2,Cloud-computing,2
+820,11-13,25-30,2,Deep dive,1
+821,13-15,45-50,2,Engine,3
+822,9-11,25-30,1,Strategic Ineptness,1
+823,7-9,40-45,3,SDN- Software defined Networking,1
+824,11-13,20-25,3,Fuzzy logic,4
+825,13-15,40-45,3,Spam,3
+826,5-7,25-30,1,Spam,1
+827,9-11,35-40,3,Vortal,1
+828,7-9,25-30,1,Skeuomorphic,3
+829,7-9,40-45,3,Dot-bomb,4
+830,Below 5,45-50,3,Vortal,2
+831,7-9,30-35,2,Machine Learning,3
+832,7-9,25-30,3,Digital Rights Management,1
+833,11-13,40-45,2,Skeuomorphic,1
+834,11-13,50+,1,Algorithm,2
+835,5-7,35-40,1,Agile,2
+836,15+,Below 10,3,Machine Learning,3
+837,9-11,20-25,2,Bleeding edge,4
+838,Below 5,10-15,1,4G,3
+839,15+,40-45,2,Web services,4
+840,9-11,50+,2,Real-time,3
+841,15+,20-25,3,Agile,2
+842,15+,10-15,2,Agile,1
+843,Below 5,45-50,1,Back-end,1
+844,5-7,15-20,2,Technological Masturbation,4
+845,Below 5,35-40,3,4G,1
+846,7-9,20-25,3,Content management,4
+847,Below 5,45-50,1,Dot-bomb,3
+848,7-9,45-50,2,Driven Development,3
+849,11-13,15-20,1,Social software,4
+850,Below 5,20-25,1,Wikiality,2
+851,15+,15-20,2,Skeuomorphic,2
+852,13-15,40-45,1,Virtualization,3
+853,13-15,15-20,1,Content management,2
+854,7-9,35-40,2,Vortal,2
+855,13-15,Below 10,2,SaaS,4
+856,7-9,35-40,3,Dot-bomb,1
+857,9-11,Below 10,1,Transmedia,4
+858,5-7,15-20,2,Disruptive Technologies,2
+859,Below 5,45-50,2,Web 2.0,2
+860,7-9,45-50,1,Framework,3
+861,7-9,40-45,1,Deep web,1
+862,9-11,10-15,1,Blockchain,2
+863,Below 5,20-25,3,Ephemeral Rogue Entity,1
+864,15+,25-30,1,Digital signage,4
+865,5-7,10-15,1,DevOps,2
+866,15+,10-15,3,Front-end,4
+867,9-11,20-25,1,HTML5,2
+868,Below 5,50+,1,Workflow,4
+869,9-11,15-20,2,Lambda,2
+870,Below 5,20-25,3,Systems Development Life-Cycle,4
+871,7-9,Below 10,3,JavaScript,2
+872,5-7,25-30,2,Nanotechnology,3
+873,11-13,25-30,2,Social bookmarking,1
+874,5-7,Below 10,3,Cloud-computing,3
+875,7-9,20-25,3,Cross-platform,4
+876,9-11,30-35,1,Datafication,4
+877,15+,50+,2,Deep web,1
+878,15+,35-40,3,Bleeding edge,2
+879,7-9,15-20,2,Ephemeral Rogue Entity,4
+880,15+,25-30,3,Big data,4
+881,13-15,Below 10,3,Real-time,2
+882,13-15,40-45,3,Agile,1
+883,13-15,50+,2,Digital Rights Management,1
+884,Below 5,10-15,1,Lambda,4
+885,7-9,20-25,1,Podcasting,3
+886,5-7,35-40,2,Ideation Management,2
+887,7-9,Below 10,2,Blockchain,3
+888,5-7,10-15,3,Mobile,3
+889,9-11,30-35,3,Disruptive Technologies,1
+890,11-13,35-40,2,Bricks-and-clicks,2
+891,11-13,30-35,2,Workflow,2
+892,5-7,15-20,1,Web 2.0,1
+893,7-9,10-15,3,Web services,4
+894,5-7,15-20,2,Eco,4
+895,15+,20-25,2,Information superhighway / Information highway,1
+896,11-13,20-25,2,Bleeding edge,4
+897,5-7,25-30,3,Responsive Web Design,3
+898,5-7,Below 10,1,Transmedia,4
+899,13-15,10-15,2,Skeuomorphic,1
+900,9-11,30-35,2,Data science,4
+901,13-15,15-20,2,User generated content,2
+902,13-15,45-50,1,Andon,2
+903,11-13,20-25,3,Content Management System - also known as CMS.,2
+904,15+,25-30,2,Mashup,2
+905,11-13,10-15,2,Podcasting,3
+906,9-11,25-30,1,IaaS,3
+907,15+,25-30,3,Digital signage,2
+908,11-13,10-15,2,Cross-platform,3
+909,9-11,20-25,2,Front-end,1
+910,9-11,25-30,3,Data mining,3
+911,9-11,40-45,2,Sensorization,2
+912,9-11,45-50,2,Design pattern,4
+913,7-9,35-40,2,Social software,3
+914,7-9,25-30,2,Agile,4
+915,7-9,50+,1,Social bookmarking,4
+916,15+,35-40,2,CSS3,4
+917,9-11,15-20,1,Digital Rights Management,3
+918,7-9,50+,1,Blockchain,2
+919,7-9,15-20,2,Big data,3
+920,11-13,40-45,2,Enterprise Service Bus,2
+921,13-15,45-50,1,Wikiality,3
+922,9-11,35-40,2,Machine Learning,4
+923,13-15,30-35,2,Back-end,4
+924,7-9,35-40,3,Driven Development,4
+925,7-9,Below 10,2,Tagging,4
+926,Below 5,Below 10,3,Document management,1
+927,13-15,30-35,1,Podcasting,1
+928,7-9,30-35,3,4G,4
+929,11-13,15-20,1,Bio,3
+930,9-11,35-40,3,Ideation Management,1
+931,Below 5,50+,2,Nanotechnology,2
+932,9-11,25-30,3,Ephemeral Rogue Entity,1
+933,15+,15-20,3,Sensorization,2
+934,5-7,10-15,3,Eco,2
+935,9-11,40-45,3,Digital Rights Management,4
+936,9-11,10-15,1,Viral,3
+937,15+,45-50,1,Immersion,4
+938,13-15,Below 10,1,Vortal,4
+939,11-13,Below 10,1,Data science,1
+940,13-15,15-20,1,Deep web,2
+941,Below 5,50+,3,Deep web,4
+942,13-15,25-30,1,Ideation Management,3
+943,5-7,20-25,3,Eco,3
+944,13-15,40-45,1,Web 2.0,4
+945,7-9,Below 10,3,Webinar,2
+946,9-11,15-20,2,Deep web,4
+947,11-13,30-35,1,User generated content,2
+948,Below 5,30-35,2,Agile,3
+949,9-11,40-45,3,User generated content,4
+950,15+,15-20,3,Web 2.0,2
+951,Below 5,45-50,3,Document management,4
+952,11-13,35-40,3,Bleeding edge,4
+953,Below 5,50+,2,Web 2.0,3
+954,13-15,15-20,2,Big data,2
+955,13-15,45-50,2,E-learning,4
+956,Below 5,15-20,1,Modularity,3
+957,9-11,10-15,1,Systems Development Life-Cycle,2
+958,13-15,20-25,1,Technological Masturbation,3
+959,5-7,30-35,1,PaaS,3
+960,13-15,10-15,1,Digital divide,2
+961,11-13,40-45,1,Digital signage,3
+962,15+,10-15,2,Next Generation,2
+963,11-13,35-40,2,Clickthrough,2
+964,7-9,Below 10,3,Wikiality,3
+965,Below 5,35-40,3,Driven Development,3
+966,Below 5,40-45,2,Ephemeral Rogue Entity,1
+967,5-7,45-50,2,Frictionless (software development),4
+968,13-15,40-45,2,Growth Hacking,1
+969,Below 5,40-45,1,Systems Development Life-Cycle,3
+970,11-13,15-20,2,User generated content,1
+971,5-7,45-50,3,Social software,2
+972,Below 5,15-20,2,Systems Development Life-Cycle,2
+973,15+,45-50,1,Collaboration,4
+974,15+,50+,3,Tagging,3
+975,9-11,30-35,3,Digital signage,1
+976,Below 5,50+,1,Andon,3
+977,7-9,40-45,2,Benchmarking,3
+978,15+,40-45,2,Data mining,2
+979,15+,50+,3,JavaScript,3
+980,9-11,50+,1,DevOps,2
+981,11-13,30-35,1,Disruptive Technologies,2
+982,Below 5,20-25,1,Social software,3
+983,9-11,45-50,2,Immersion,2
+984,11-13,40-45,1,Nanotechnology,4
+985,15+,30-35,2,Dot-bomb,4
+986,11-13,10-15,1,Cyber-physical Systems (CPS),2
+987,7-9,10-15,3,Disruptive Technologies,4
+988,11-13,40-45,2,Benchmarking,4
+989,13-15,30-35,2,Wikiality,1
+990,5-7,10-15,2,Web 2.0,2
+991,9-11,Below 10,3,Open source,4
+992,11-13,15-20,2,Digital Rights Management,4
+993,11-13,40-45,3,Modularity,1
+994,Below 5,Below 10,3,SDN- Software defined Networking,1
+995,Below 5,Below 10,3,Microservices,3
+996,7-9,25-30,2,Workflow,4
+997,13-15,Below 10,1,Wikiality,1
+998,15+,45-50,3,Bleeding edge,2
+999,Below 5,Below 10,2,Lambda,3
+1000,13-15,45-50,1,Big data,3
